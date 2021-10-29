@@ -21,5 +21,6 @@
 <ol>
   <li>yo @microsoft/sharepoint</li>
   <li>gulp trust-dev-cert</li>
+  <li>gulp serve</li>
 </ol>
 
