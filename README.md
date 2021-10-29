@@ -16,3 +16,10 @@
   <li>Add site Collection data</li>
   <li>At the 'Active Sites' you'l find your catalog</li>
 </ol>
+
+## Create Sharepoint solution
+<ol>
+  <li>yo @microsoft/sharepoint</li>
+  <li>gulp trust-dev-cert</li>
+</ol>
+
