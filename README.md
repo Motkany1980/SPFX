@@ -23,3 +23,42 @@
   <li>gulp trust-dev-cert</li>
   <li>gulp serve</li>
 </ol>
+
+## Sharepoint properties
+<ol>
+  <li>
+  
+  ````typescript
+      this.properties.description;
+  ````
+
+  </li>
+  <li>  
+
+  ````typescript
+      this.context.pageContext.web.absoluteURL;
+  ````
+
+  </li>
+  <li>  
+
+  ````typescript
+      this.context.pageContext.web.title;
+  ````
+
+  <li>
+
+  ````typescript
+      this.context.pageContext.web.serverRelativeURL;
+  ````
+
+  </li>
+    <li>
+
+  ````typescript
+      this.context.pageContext.user.displayName;
+  ````
+
+  </li>
+
+</ol>
