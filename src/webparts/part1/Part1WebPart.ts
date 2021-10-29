@@ -30,7 +30,8 @@ export default class Part1WebPart extends BaseClientSideWebPart<IPart1WebPartPro
             </div>
           </div>
         </div>
-      </div>`;
+      </div>
+      <p>Test</p>`;
   }
 
   protected get dataVersion(): Version {
