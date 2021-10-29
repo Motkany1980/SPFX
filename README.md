@@ -6,12 +6,13 @@
   <li>npm install -g @microsoft/generator-sharepoint ( install Sharepoint code generator  )</li>
 </ol>
 
-## Create Sharepoint project:
+## Sharepoint create App Catalog:
 <ol>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Sharepoint admin Center</li>
+  <li>More features</li>
+  <li>Apps - Click Open</li>
+  <li>App Catalog</li>
+  <li>Create a new app catalog site</li>
+  <li>Add site Collection data</li>
+  <li>At the 'Active Sites' you'l find your catalog</li>
 </ol>
